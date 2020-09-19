@@ -1,5 +1,4 @@
 nbdev
-torchvision==0.7.0+cpu
 voila
 fastai
 argon2-cffi==20.1.0
